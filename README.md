@@ -1,4 +1,4 @@
-### Nike Clone
+# Nike Clone
 
 ## Description
 A clone of Nike made using React and Tailwind. 
