@@ -8,7 +8,7 @@ const Nav = () => {
   return (
     <header className="padding-x py-8 absolute z-10 w-full">
       <nav className="flex justify-center items-center max-container max-lg:justify-between">
-        <Link to="#top" smooth>
+        <Link to="#home" smooth>
           <img src={headerLogo} alt="logo" width={130} height={29} />
         </Link>
         <ul className="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
